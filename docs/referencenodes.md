@@ -18,9 +18,9 @@ Blockcore is available for the below listed blockchains.
 - [chains/CITY.json](https://chains.blockcore.net/chains/CITY.json)
 - [docker/CITY/docker-compose.yml](https://chains.blockcore.net/docker/CITY/docker-compose.yml)
 
-### SERF
-- [chains/SERF.json](https://chains.blockcore.net/chains/SERF.json)
-- [docker/SERF/docker-compose.yml](https://chains.blockcore.net/docker/SERF/docker-compose.yml)
+### Cybits Chain
+- [chains/CYBITS.json](https:chains.blockcore.net/chains/CYBITS.json)
+- [docker/BTC/docker-compose.yml](https://chains.blockcore.net/docker/CYBITS/docker-compose.yml) 
 
 ### Impleum
 - [chains/IMPLX.json](https://chains.blockcore.net/chains/IMPLX.json)
@@ -30,18 +30,29 @@ Blockcore is available for the below listed blockchains.
 - [chains/EXOS.json](https://chains.blockcore.net/chains/EXOS.json)
 - [docker/EXOS/docker-compose.yml](https://chains.blockcore.net/docker/EXOS/docker-compose.yml)
 
+### Royal Sports City
+- [chains/RSC.json] (https://chains.blockcore.net/chains/RSC.json) 
+- [docker/RSC/docker-compose.yml] (https://chains.blockcore.net/docker/RSC/docker-compose.yml)
+
 ### Rutanio
 - [chains/RUTA.json](https://chains.blockcore.net/chains/RUTA.json)
 - [docker/RUTA/docker-compose.yml](https://chains.blockcore.net/docker/RUTA/docker-compose.yml)
 
-### Solaris
-- [chains/XLR.json](https://chains.blockcore.net/chains/XLR.json)
-- [docker/XLR/explorer.yml](https://chains.blockcore.net/docker/XLR/explorer.yml)
-- [docker/XLR/indexer.yml](https://chains.blockcore.net/docker/XLR/indexer.yml)
+### Senior Blockchain
+-[chains/SBC.json] (https://chains.blockcore.net/chains/SBC.json)
+-[docker/SBC/docker-compose.yml] (https://chains.blockcore.net/docker/SBC/docker-compose.yml)
+
+### SERF
+- [chains/SERF.json](https://chains.blockcore.net/chains/SERF.json)
+- [docker/SERF/docker-compose.yml](https://chains.blockcore.net/docker/SERF/docker-compose.yml)
 
 ### Stratis
 - [chains/STRAX.json](https://chains.blockcore.net/chains/STRAX.json)
 - [docker/STRAX/docker-compose.yml](https://chains.blockcore.net/docker/STRAX/docker-compose.yml)
+
+### Cirrus
+-[chains/CRS.json] (https://chains/blockcore.net/chains/CRS.json) 
+-[docker/CRS/docker-compose.yml] (https://chains.blockcore.net/docker/CRS/docker-compose.yml)
 
 ### x42
 - [chains/X42.json](https://chains.blockcore.net/chains/X42.json)
@@ -51,17 +62,9 @@ Blockcore is available for the below listed blockchains.
 - [chains/XDS.json](https://chains.blockcore.net/chains/XDS.json)
 - [docker/XDS/docker-compose.yml](https://chains.blockcore.net/docker/XDS/docker-compose.yml)
 
-### X1
-- [chains/X1.json](https://chains.blockcore.net/chains/X1.json)
-- [docker/X1/docker-compose.yml](https://chains.blockcore.net/docker/X1/docker-compose.yml)
-
 ### XRC
 - [chains/XRC.json](https://chains.blockcore.net/chains/XRC.json)
 - [docker/XRC/docker-compose.yml](https://chains.blockcore.net/docker/XRC/docker-compose.yml)
-
-### HOMECOIN
-- [chains/HOME.json](https://chains.blockcore.net/chains/HOME.json)
-- [docker/HOME/docker-compose.yml](https://chains.blockcore.net/docker/HOME/docker-compose.yml)
 
 
 ## Download
